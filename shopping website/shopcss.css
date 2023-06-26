@@ -16,6 +16,13 @@
     width:100%;
     height: 2rem;
 }
+.image-flag{
+    height: 30px;
+    width:30px;
+    object-fit: contain;
+    border-radius: 50%;
+    border:1px solid black;
+}
 .header_nav{
     float: right;
     display: flex;
